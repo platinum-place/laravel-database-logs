@@ -1,3 +1,5 @@
+# Agregar logs por base de datos en Laravel
+
 ### Configuración de Logging Personalizado
 
 Para agregar un handler personalizado en el archivo de configuración de logging en Laravel, sigue estos pasos:
